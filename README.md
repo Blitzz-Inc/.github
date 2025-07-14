@@ -1,6 +1,7 @@
 
-![GitHub_Readme_Cover](https://github.com/user-attachments/assets/)
-## Welcome
+![Blitzz Cobrowse](https://github.com/user-attachments/assets/a182b337-8a3b-466f-996f-41d95c199982)
+## Welcome!
+
 
 ### Quick links
 - Main website - https://blitzz.co
